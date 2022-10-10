@@ -13,7 +13,7 @@
 #### Technology:
 - Python
 #### Data decription:
-        - instant: record index
+	- instant: record index
 	- dteday : date
 	- season : season (1:springer, 2:summer, 3:fall, 4:winter)
 	- yr : year (0: 2011, 1:2012)
@@ -22,7 +22,7 @@
 	- holiday : weather day is holiday or not (extracted from http://dchr.dc.gov/page/holiday-schedule)
 	- weekday : day of the week
 	- workingday : if day is neither weekend nor holiday is 1, otherwise is 0.
-	- weathersit : 
+	+ weathersit : 
 		- 1: Clear, Few clouds, Partly cloudy, Partly cloudy
 		- 2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
 		- 3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
